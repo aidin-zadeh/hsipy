@@ -1,0 +1,7 @@
+# Untrack data files
+*.npy
+*.npz
+*.pkl
+*.h5
+# Untrack Pycharm .idea folder
+*.idea
